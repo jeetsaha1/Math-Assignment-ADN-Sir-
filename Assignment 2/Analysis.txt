@@ -1,0 +1,18 @@
+Q1. How frequently do call volumes exceed 7 per hour?
+From simulation: ~9% of hours had > 7 calls/hour
+
+Indicates rare spikes — may require extra staff on standby.
+
+Q2. What are the chances of getting 0 calls?
+Theoretical Poisson PMF:
+
+P(0 \text{ calls}) = e^{-4} \approx 0.0183 \text{ (1.83%)}
+So very few hours are fully idle.
+
+Q3. Staffing Plan
+Minimum: Staff for handling 3–5 calls/hour (most common).
+
+Flexible backup: For 8–10 call hours (~10% of time), on-call/overflow staff needed.
+
+Automation: During low-call hours (e.g. 0–1 calls), chatbots or auto-responders can reduce workload.
+

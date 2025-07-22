@@ -1,0 +1,14 @@
+1. Average Number of Successes
+Both simulated and theoretical values center around 850 successes. This matches the expected value n*p = 1000 * 0.85.
+
+2. Closeness to Theoretical Distribution
+The histogram closely follows the bell-shaped curve of a Binomial distribution.
+
+The standard deviation is small (~11.2), indicating high consistency.
+
+3. Reliability of Simulation in Trials
+With large sample sizes and repeated simulations, the law of large numbers ensures the empirical results converge to the theoretical.
+
+Hence, simulation is a powerful and reliable tool in modeling vaccine efficacy outcomes before or during real-world trials.
+
+Helps evaluate risk, variability, and confidence intervals.

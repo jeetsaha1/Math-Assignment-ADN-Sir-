@@ -1,0 +1,22 @@
+1. Gifted and Challenged Categories
+Approximately 2.2% of individuals had an IQ ≤ 70 (challenged).
+
+Around 2.1% had an IQ ≥ 130 (gifted).
+
+These percentages align with the tails of the normal distribution.
+
+2. Empirical Rule Verification
+We verified the 68-95-99.7 rule:
+
+~68% of IQs lie between 85 and 115 (±1σ)
+
+~95% between 70 and 130 (±2σ)
+
+~99.7% between 55 and 145 (±3σ)
+
+These values matched the theoretical expectations for a normal distribution.
+
+3. Effect of Standard Deviation
+Increasing σ (e.g., to 20) increases the spread—more people in the outlier zones.
+
+Decreasing σ (e.g., to 10) concentrates the values closer to the mean.
